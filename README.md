@@ -1,7 +1,8 @@
-<h1 align="center">[Hi 👋, I'm] [DixVolz]</h1>
-<h3 align="center">~| I am a developer from Indonesia ¦¦ Help follow my github, so that I will be more enthusiastic about making viruses |~</h3>
+<h2 align="center"> [DixVolz] </h2>
+<img align="center" alt="glitch skull" width="1000" src="https://cdn-images-1.medium.com/v2/resize:fit:960/1*Wp_7ybkx2AlpQgjDVGSw0A.gif">
+<h4 align="center"> ~| I am a developer from Indonesia ¦¦ Help follow my github, so that I will be more enthusiastic about making viruses |~</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dixvolz&label=Profile%20views&color=0e75b6&style=flat" alt="dixvolz" /> </p>
+<h4 align="left"> <img src="https://komarev.com/ghpvc/?username=dixvolz&label=Profile%20views&color=0e75b6&style=flat" alt="dixvolz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dixvolz" alt="dixvolz" /></a> </p>
 
